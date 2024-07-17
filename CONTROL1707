@@ -1,0 +1,44 @@
+for (n=1;n<=100;++n){scanf("%f",&x);
+If (x<0) { printf("ERROR-NEGATIVE VALUE FOR X");break;
+}
+...........................
+}
+for (n=1;n<=100;++n){
+scanf("%f",&x);
+If(x<0)
+printf("ERROR-NEGATIVE VALUE FOR X");
+continue
+}
+............................
+}
+do
+printf("%d/n",.digit++);
+while (digit<=9);
+for(digit=0;digit<=9;++digit)
+printf("%d/n",digit);
+if(x<0)
+goto flag;
+--------------------------------
+flag:printf("ERROR");
+if (x<0)
+printf("%f",x);
+if(status=="s")
+tax=0.20*pay;
+else
+tax=0.14*pay;
+return(n1+n2);
+choice=getchar()){
+case "R":
+printf("RED");
+break;
+case W:
+printf("WHITE");
+break;
+case "B";
+printf("BLUE"):
+Break;
+Default:
+printf("ERROR");
+}
+WHILE(Digit<=9)
+printf(%d/n,digit++);
